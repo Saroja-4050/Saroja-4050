@@ -3,7 +3,6 @@
   <i>Data-Driven Coder | AI/ML Engineer | Full-Stack Builder</i>
 </div>
 
----
 
 ## ✨ About Me
 - 💻 I'm a Computer Science graduate student at the University at Buffalo, passionate about turning data into actionable insights and building impactful solutions.
@@ -14,7 +13,6 @@
 ## 🤔 Beyond the Code
 When I'm not building software or analyzing data, you might find me writing poems under a tree, with Billie Eilish or Lana Del Rey providing the soundtrack. 🎧📜🌳
 
----
 
 ## 🎓 Education
 **Master of Science in Computer Science and Engineering**
@@ -23,7 +21,6 @@ University at Buffalo, USA | *August 2024 - Present*
 **Bachelor of Technology in Computer Science and Engineering**
 JNTU, India | *2019 - 2023*
 
----
 
 ## 💼 Professional Experience
 
@@ -47,7 +44,6 @@ JNTU, India | *2019 - 2023*
 - Built a scalable job aggregation backend with **FastAPI and PostgreSQL**, automating job fetching and storage.
 - Deployed an **AI recommendation engine (Scikit-learn, XGBoost) on AWS Lambda**, boosting job relevance by 25% and doubling matching speed.
 
----
 
 ## 🛠️ My Tech Arsenal
 <p align="center">
@@ -84,7 +80,6 @@ JNTU, India | *2019 - 2023*
    <img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white&color=black" alt="Bitbucket">
 </p>
 
----
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -97,7 +92,6 @@ JNTU, India | *2019 - 2023*
 
 </div>
 
----
 
 ## 👋 Let's Connect!
 <div align="center">
@@ -106,7 +100,6 @@ JNTU, India | *2019 - 2023*
   <a href="mailto:sarojavuluvabeeti@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
----
 
 <div align="center">
   <i>Crafting solutions with code and creativity.</i>
