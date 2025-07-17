@@ -24,25 +24,30 @@ JNTU, India | *2019 - 2023*
 
 ## 💼 Professional Experience
 
-### **APPETIT**, Buffalo, NY, USA
-*Software Development Engineer Intern | January 2025 - Present*
-- Built a loyalty program with **Node.js, React Native, and MongoDB**, increasing repeat orders by 30%.
-- Integrated gamification features (points, badges) to boost in-app engagement by 25%.
-- Deployed **RESTful APIs** with **Express.js** and **MongoDB** for real-time reward tracking, improving user satisfaction by 20%.
-- Optimized customer retention with targeted in-app notifications, cutting churn by 15%.
+### **University at Buffalo**, Buffalo, NY, USA  
+*Graduate Research Assistant, AI Innovation Lab (A2IL) | Feb 2025 – Present*  
+- Worked under Prof. Dr. David Doermann on advanced research in computer vision, deep learning, and large language models (LLMs).  
+- Improved object‑detection performance and built generative‑AI pipelines for data augmentation and synthetic data generation.  
 
-### **LTI MINDTREE**, Hyderabad, India
-*Software Development Engineer Intern | June 2023 - February 2024*
-- Implemented **Java-based backend services** with **RESTful APIs**, integrating **AWS SDK** for seamless cloud interactions and scalability.
-- Developed **Infrastructure as Code** using **Terraform** for **AWS (EC2, S3, Lambda, and RDS)** improving deployment efficiency.
-- Built and deployed **serverless applications** with **AWS Lambda, API Gateway, and DynamoDB**, reducing operational overhead.
+### **Appetit**, Buffalo, NY, USA  
+*ML Engineer Intern | Jan 2025 – May 2025*  
+- Built a hybrid recommender (user‑based CF + TF‑IDF vectors on PostgreSQL & scikit‑learn), increasing repeat purchases by 30% and basket size by 15%.  
+- Launched an ML‑driven loyalty program with dynamic reward tiers, improving customer retention by 22% and lifetime value by 17%.  
+- Integrated a GPT‑powered support chatbot, resolving 72% of customer queries and reducing response time from days to seconds.  
 
-### **PROFILR**, Gurgaon, India
-*Data Science & Cloud Intern | May 2022 – December 2022*
-- Developed an **AI-driven interview assessment system** (**Google Dialogflow, TensorFlow**), automating mock interviews for recruiters and candidates.
-- Implemented **NLP-based candidate profiling**, improving job-candidate matching accuracy by 30%.
-- Built a scalable job aggregation backend with **FastAPI and PostgreSQL**, automating job fetching and storage.
-- Deployed an **AI recommendation engine (Scikit-learn, XGBoost) on AWS Lambda**, boosting job relevance by 25% and doubling matching speed.
+### **LTI Mindtree**, Hyderabad, India  
+*Software Development Engineer Intern | Jun 2023 – Feb 2024*  
+- Implemented Java‑based backend services with RESTful APIs, integrating AWS SDK for seamless cloud interactions and scalability.  
+- Developed Terraform IaC for AWS (EC2, S3, Lambda, RDS), improving deployment efficiency.  
+- Built and deployed serverless applications with Lambda, API Gateway, and DynamoDB, reducing operational overhead.  
+
+### **ProfiLr**, Gurgaon, India  
+*Data Science & Cloud Intern | May 2022 – Dec 2022*  
+- Developed an AI‑driven interview assessment system (Google Dialogflow, TensorFlow), automating mock interviews.  
+- Implemented NLP-based candidate profiling, improving job‑matching accuracy by 30%.  
+- Built a scalable job‑aggregation backend with FastAPI and PostgreSQL.  
+- Deployed a recommendation engine (scikit‑learn, XGBoost) on AWS Lambda, boosting job relevance by 25% and doubling matching speed.  
+
 
 
 ## 🛠️ My Tech Arsenal
