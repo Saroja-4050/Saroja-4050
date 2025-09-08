@@ -1,14 +1,11 @@
 <div align="center">
   <h1>Hey there! I'm Saroja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-  <i>Data-Driven Coder | AI/ML Engineer | Full-Stack Builder</i>
+  <i>Full Stack AI/ML Engineer</i>
 </div>
 
 
 ## ✨ About Me
-- 💻 I'm a Computer Science graduate student at the University at Buffalo, passionate about turning data into actionable insights and building impactful solutions.
-- 🛠️ My approach is **user-focused** and **data-driven**, constantly seeking to develop technology that addresses real-world challenges, especially within my campus community.
-- 🚀 I love the process of building from the ground up – from dissecting data to crafting intelligent models, robust backends, and engaging user interfaces.
-- 🧠 Deeply fascinated by **Artificial Intelligence**, I'm always exploring the latest advancements and expanding my expertise in this dynamic field.
+I’m a full-stack and AI/ML engineer with 2+ years of experience building production systems. I create scalable web and cloud back ends, fine-tune LLMs, and design agent-based pipelines that turn raw data into usable insight. Driven by curiosity and hands-on research, I translate work on transformers, RAG, and multimodal models into features that users rely on.
 
 ## 🤔 Beyond the Code
 When I'm not building software or analyzing data, you might find me writing poems under a tree, with Billie Eilish or Lana Del Rey providing the soundtrack. 🎧📜🌳
@@ -24,30 +21,20 @@ JNTU, India | *2019 - 2023*
 
 ## 💼 Professional Experience
 
-### **University at Buffalo**, Buffalo, NY, USA  
-*Graduate Research Assistant, AI Innovation Lab (A2IL) | Feb 2025 – Present*  
-- Worked under Prof. Dr. David Doermann on advanced research in computer vision, deep learning, and large language models (LLMs).  
-- Improved object‑detection performance and built generative‑AI pipelines for data augmentation and synthetic data generation.  
+### **DRONES Lab**, Buffalo, NY, USA  
+*Full stack AI Engineer | Aug 2025 – Present*  
+
+### **AI Innovation Lab (A2IL)**, Buffalo, NY, USA  
+*Graduate AI ML Research Assistant | Feb 2025 – Present*  
 
 ### **Appetit**, Buffalo, NY, USA  
-*ML Engineer Intern | Jan 2025 – May 2025*  
-- Built a hybrid recommender (user‑based CF + TF‑IDF vectors on PostgreSQL & scikit‑learn), increasing repeat purchases by 30% and basket size by 15%.  
-- Launched an ML‑driven loyalty program with dynamic reward tiers, improving customer retention by 22% and lifetime value by 17%.  
-- Integrated a GPT‑powered support chatbot, resolving 72% of customer queries and reducing response time from days to seconds.  
+*Full stack ML Engineer | Jan 2025 – Jul 2025*   
 
 ### **LTI Mindtree**, Hyderabad, India  
 *Software Development Engineer Intern | Jun 2023 – Feb 2024*  
-- Implemented Java‑based backend services with RESTful APIs, integrating AWS SDK for seamless cloud interactions and scalability.  
-- Developed Terraform IaC for AWS (EC2, S3, Lambda, RDS), improving deployment efficiency.  
-- Built and deployed serverless applications with Lambda, API Gateway, and DynamoDB, reducing operational overhead.  
 
 ### **ProfiLr**, Gurgaon, India  
-*Data Science & Cloud Intern | May 2022 – Dec 2022*  
-- Developed an AI‑driven interview assessment system (Google Dialogflow, TensorFlow), automating mock interviews.  
-- Implemented NLP-based candidate profiling, improving job‑matching accuracy by 30%.  
-- Built a scalable job‑aggregation backend with FastAPI and PostgreSQL.  
-- Deployed a recommendation engine (scikit‑learn, XGBoost) on AWS Lambda, boosting job relevance by 25% and doubling matching speed.  
-
+*Full Stack ML Intern | May 2022 – Dec 2022* 
 
 
 ## 🛠️ My Tech Arsenal
@@ -100,7 +87,7 @@ JNTU, India | *2019 - 2023*
 
 ## 👋 Let's Connect!
 <div align="center">
-  <a href="https://www.linkedin.com/in/saroja-vuluvabeeti-b736a203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/saroja-vuluvabeeti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@sarojavuluvabeeti" target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="mailto:sarojavuluvabeeti@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
